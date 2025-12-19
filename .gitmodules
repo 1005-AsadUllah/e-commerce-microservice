@@ -1,0 +1,12 @@
+[submodule "OrderService"]
+	path = OrderService
+	url = https://github.com/1005-AsadUllah/OrderService.git
+[submodule "CloudGateWay"]
+	path = CloudGateWay
+	url = https://github.com/1005-AsadUllah/CloudGateWay.git
+[submodule "PaymentService"]
+	path = PaymentService
+	url = https://github.com/1005-AsadUllah/PaymentService.git
+[submodule "ProductService"]
+	path = ProductService
+	url = https://github.com/1005-AsadUllah/ProductService.git

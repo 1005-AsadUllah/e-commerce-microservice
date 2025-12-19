@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Tulip_tech.ConfigServer.ConfigServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.622 s -- in com.Tulip_tech.ConfigServer.ConfigServerApplicationTests
